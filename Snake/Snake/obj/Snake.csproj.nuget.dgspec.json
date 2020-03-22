@@ -1,34 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\Documents\\GitHub\\snake\\Snake\\Snake\\Snake\\Snake.csproj": {}
+    "/Users/aleksejnenko/Projects/Snake/Snake/Snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\Documents\\GitHub\\snake\\Snake\\Snake\\Snake\\Snake.csproj": {
+    "/Users/aleksejnenko/Projects/Snake/Snake/Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\snake\\Snake\\Snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "/Users/aleksejnenko/Projects/Snake/Snake/Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\snake\\Snake\\Snake\\Snake\\Snake.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\snake\\Snake\\Snake\\Snake\\obj\\",
+        "projectPath": "/Users/aleksejnenko/Projects/Snake/Snake/Snake.csproj",
+        "packagesPath": "/Users/aleksejnenko/.nuget/packages/",
+        "outputPath": "/Users/aleksejnenko/Projects/Snake/Snake/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/aleksejnenko/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,19 +34,23 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }

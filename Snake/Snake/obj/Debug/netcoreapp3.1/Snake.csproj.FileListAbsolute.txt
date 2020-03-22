@@ -1,0 +1,10 @@
+/Users/aleksejnenko/Projects/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.deps.json
+/Users/aleksejnenko/Projects/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.json
+/Users/aleksejnenko/Projects/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.dev.json
+/Users/aleksejnenko/Projects/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.dll
+/Users/aleksejnenko/Projects/Snake/Snake/bin/Debug/netcoreapp3.1/Snake.pdb
+/Users/aleksejnenko/Projects/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.csprojAssemblyReference.cache
+/Users/aleksejnenko/Projects/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfoInputs.cache
+/Users/aleksejnenko/Projects/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfo.cs
+/Users/aleksejnenko/Projects/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.dll
+/Users/aleksejnenko/Projects/Snake/Snake/obj/Debug/netcoreapp3.1/Snake.pdb
